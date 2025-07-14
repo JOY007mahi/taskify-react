@@ -1,5 +1,10 @@
 # 🧠 Taskify React — Simple Task Manager
 
+## 🌐 Live Demo
+
+👉 [View Live App](https://taskify-three-peach.vercel.app)
+
+
 A clean, modern, and fully functional task manager app built with **React**, **Next.js**, **Tailwind CSS**, and **ShadCN UI**.
 
 ## 🚀 Features
