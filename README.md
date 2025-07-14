@@ -17,7 +17,10 @@ A clean, modern, and fully functional task manager app built with **React**, **N
 
 ## 🖼️ Preview
 
-![Screenshot](https://taskify-three-peach.vercel.app/Screenshot.png)
+## 🖼️ Preview
+
+![screenshot](public/screenshot.png)
+
 
 
 
