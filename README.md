@@ -17,9 +17,7 @@ A clean, modern, and fully functional task manager app built with **React**, **N
 
 ## 🖼️ Preview
 
-## 🖼️ Preview
-
-![Screenshot](public/Screenshot.png)
+![screenshot](public/screenshot.png)
 
 
 
